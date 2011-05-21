@@ -1,0 +1,3 @@
+ARDRoneAPI and ARDroneDLL projects:
+
+Parrot AR Drone License (see respective projects)
